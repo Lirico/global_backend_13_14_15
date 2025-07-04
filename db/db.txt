@@ -1,0 +1,1 @@
+[{"id":"1","product":"Heladera","price":800000},{"id":"2","product":"Cafetera","price":100000},{"id":"3","product":"Conservadora","price":800000},{"id":"4","product":"Taladro","price":800000}]
